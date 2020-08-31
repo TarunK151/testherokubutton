@@ -14,4 +14,4 @@ res.write('<!DOCTYPE html>'+
 '</html>');
 res.end();
 });
-server.listen(5000);
+server.listen(process.env.PORT || 5000);
