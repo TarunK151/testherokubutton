@@ -1,0 +1,23 @@
+{
+  "name": "testherokubutton",
+  "version": "1.0.0",
+  "description": "This is an app for test",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TarunK151/testherokubutton.git"
+  },
+  "keywords": [
+    "heroku",
+    "button"
+  ],
+  "author": "tarun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TarunK151/testherokubutton/issues"
+  },
+  "homepage": "https://github.com/TarunK151/testherokubutton#readme"
+}
