@@ -1,0 +1,7 @@
+{
+    "name": "Sample noede.js heroku test",
+    "description": "A barebones Node.js app to test deploy to heroku button",
+    "repository": "https://github.com/heroku/node-js-getting-started",
+    "logo": "https://node-js-sample.herokuapp.com/node.png",
+    "keywords": ["node", "express", "static"]
+  }
